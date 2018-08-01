@@ -1,5 +1,7 @@
 # MDS Projects by James Devenport
+
 A number of projects that I've done for my Bachelor of Software Engineering course at Media Design School. Some of them are complete, some of them are not.
+
 
 ---
 ## Complete Projects
@@ -29,16 +31,18 @@ NOTE: The game is playable. There is a .exe file under the Release folder. There
 **Space Invaders**
 >A remake of the classic game in WinAPI, using my own assets. This was my first game-style project with a graphics API. I struggled a little at the start getting my head around how game processing should work. I eventually got it working, but I think I messed up using DeltaTime, among other things. I'm hoping I might be able to revisit this one, maybe in Swift, since that is what we're currently doing in class right now.
 
+
+---
 ## Broken Projects
 
-
+---
 ## Uncomplete Projects
-
 **Tree Data Structures**
 >Here, there were meant to be two projects in this one solution. One is here, the Binary tree with binary tree operations, but also a general tree. The entire class was very confused on what to do for the General tree, as the project brief that the lecturer gave us did not state that each node could have more than 2 children, and how the nodes were to determine when to make a new branch etc.
 
 **Minimax Project**
 >An implimentation of the minimax algorithmn in a tic-tac-toe game environment. Was actually completed, but current code is the only one I can find on my home computer. Will go digging for it if I can find time at school and move to `Completed Projects`
 
+---
 # A Footnote
 These are some of my projects that I've done over the past one and a half years as a student at MDS. I'll try keep this updated with any future projects that I do.
